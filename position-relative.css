@@ -1,0 +1,14 @@
+div{
+    width:400px;
+    height:100VW;
+    position:relative;
+    background: lightblue;
+}
+div h1{
+    position:absolute;
+    left:50%;
+    transform: translate(-50%);
+    width:100px;
+    background-color: lightcoral;
+
+}
